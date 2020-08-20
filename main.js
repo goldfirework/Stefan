@@ -5,4 +5,4 @@ var token = "[insert token here]";
 
 
 
-client.login("NzE5MjMzNzMzMDIyMDU2NTA5.Xt5oUg.d4hubtrmRihtx4du8FIdPEvX4r4");
+client.login(token);
